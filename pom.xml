@@ -103,7 +103,7 @@
         <dependency>
             <groupId>com.xm.pdd</groupId>
             <artifactId>pop-sdk</artifactId>
-            <classifier>all</classifier>
+<!--            <classifier>all</classifier>-->
             <version>1.10.53</version>
         </dependency>
 
