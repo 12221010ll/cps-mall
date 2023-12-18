@@ -10,11 +10,11 @@ spring:
 
 #rabbitmq相关配置
   rabbitmq:
-    host:
-    port: 6672
+    host: 8.140.253.179
+    port: 5672
     virtual-host: /cps-mall
-    username:
-    password: 'xxxx'
+    username: admin
+    password: admin
 
 #redis配置
   redis:
